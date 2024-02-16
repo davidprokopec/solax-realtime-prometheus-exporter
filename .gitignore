@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/dist
+/vendor
+/cover.out
+
+solax-realtime-prometheus-exporter
